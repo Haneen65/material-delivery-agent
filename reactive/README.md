@@ -3,7 +3,10 @@
 
 Run:
 
-python reactive_agent.py
+python maun.py
 
 Model:
+
+Rule-based model
+
 No LLM used.
